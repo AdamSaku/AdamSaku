@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Adam Bagus Handoko
 
-I'm a passionate **Junior Developer** focusing on **Web Development**, and **WhatsApp Bots**.  
+I'm a passionate **Junior Developer** focusing on **Android Development**, **Web Development**, and **WhatsApp Bots**.  
 Currently exploring new technologies, contributing to personal and open-source projects, and constantly learning.
 
 ---
@@ -9,6 +9,12 @@ Currently exploring new technologies, contributing to personal and open-source p
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
+![Smali](https://img.shields.io/badge/-Smali-000000?style=flat-square)
 
 ---
 
