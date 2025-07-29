@@ -42,6 +42,11 @@ Currently exploring new technologies, contributing to personal and open-source p
 
 ### 📊 GitHub Stats
 ![XD3V-ID's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XD3V-ID&show_icons=true&theme=tokyonight&hide_title=true)
+
+---
+
+### 📊 GitHub Stats Top Lang
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XD3V-ID&layout=compact&theme=tokyonight)
 
 ---
