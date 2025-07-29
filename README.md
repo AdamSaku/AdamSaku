@@ -23,10 +23,15 @@ Currently exploring new technologies, contributing to personal and open-source p
 ### 🚀 Projects
 
 - 🤖 **WA Bot Multi-Feature**
-  WhatsApp bot with games, VIP system, prayer time auto-group lock, and more  
+
+  WhatsApp bot with games, VIP system, prayer time auto-group lock, and more
+  
 - 📱 **Simple Apps**
-  Mobile apps with professional UI/UX  
+
+  Mobile apps with professional UI/UX
+   
 - 📦 **API-based Tools**
+
   Fast, lightweight API tools for automation
 
 ---
