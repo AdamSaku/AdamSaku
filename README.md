@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif" 
-       alt="Animated Banner" 
+       alt="Animated" 
        width="300" 
        style="border-radius: 15px;" />
 </p>
