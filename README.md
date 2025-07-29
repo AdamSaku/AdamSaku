@@ -15,6 +15,8 @@ Currently exploring new technologies, contributing to personal and open-source p
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
 ![Smali](https://img.shields.io/badge/-Smali-000000?style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![API](https://img.shields.io/badge/-API-00BDD6?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
