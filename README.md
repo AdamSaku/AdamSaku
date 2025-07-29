@@ -13,6 +13,7 @@ Currently exploring new technologies, contributing to personal and open-source p
 ### 💼 Tech Stack
 
 **👨‍💻 Primary Tools & Technologies**
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
@@ -30,6 +31,7 @@ Currently exploring new technologies, contributing to personal and open-source p
 ![REST API](https://img.shields.io/badge/API-00BDD6?style=flat-square&logo=fastapi&logoColor=white)
 
 **📚 Currently Exploring / On Learning**
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -66,10 +68,11 @@ Currently exploring new technologies, contributing to personal and open-source p
 
 ### 📊 GitHub Insight
 
-**📊 GitHub Stats**
+**Stats**
+
 ![XD3V-ID's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XD3V-ID&show_icons=true&theme=tokyonight&hide_title=true)
 
-**📊 GitHub Stats Top Lang**
+**Top Lang**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XD3V-ID&layout=compact&theme=tokyonight)
 
