@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there, I'm a Junior Developer 👋
+
+💻 I'm a Junior Developer passionate about web & bot development  
+
+### 📫 Contact me
+
+### 📊 GitHub Stats
+![Xploit's GitHub stats](https://github-readme-stats.vercel.app/api?username=XD3V-ID&show_icons=true&theme=tokyonight)
 
 <!--
 **XD3V-ID/XD3V-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
