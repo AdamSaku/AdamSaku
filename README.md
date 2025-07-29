@@ -2,7 +2,8 @@
 
 ### 👋 Hello, I'm Adam Bagus Handoko
 
-I'm a passionate **Junior Developer** focusing on **Android Development**, **Web Development**, and **WhatsApp Bots**.  
+I'm a passionate **Junior Developer** focusing on **Android Development**, **Web Development**, and **WhatsApp Bots**. 
+
 Currently exploring new technologies, contributing to personal and open-source projects, and constantly learning.
 
 ---
