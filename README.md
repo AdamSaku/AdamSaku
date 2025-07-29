@@ -1,11 +1,11 @@
-### 👋 Hello, I'm Adam Bagus Handoko
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif" 
        alt="Animated Banner" 
        width="300" 
        style="border-radius: 15px;" />
 </p>
+
+### 👋 Hello, I'm Adam Bagus Handoko
 
 I'm a passionate **Junior Developer** focusing on **Android Development**, **Web Development**, and **WhatsApp Bots**.  
 Currently exploring new technologies, contributing to personal and open-source projects, and constantly learning.
