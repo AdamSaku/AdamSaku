@@ -1,6 +1,8 @@
 ![banner](assets/gif/banner.gif)
 
-### 👋 Hello, I'm Adam Bagus Handoko
+### About Me
+
+👋 **Hello, I'm Adam Bagus Handoko**
 
 I'm a passionate **Junior Developer** focusing on **Android Development**, **Web Development**, and **WhatsApp Bots**. 
 
