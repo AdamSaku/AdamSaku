@@ -3,6 +3,8 @@
 💻 I'm a Junior Developer passionate about web & bot development  
 
 ### 📫 Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-bagus-handoko-3a146b2ab)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/adam.bagus1)
 
 ### 📊 GitHub Stats
 ![Xploit's GitHub stats](https://github-readme-stats.vercel.app/api?username=XD3V-ID&show_icons=true&theme=tokyonight)
