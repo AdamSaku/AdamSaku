@@ -67,6 +67,9 @@ Currently exploring new technologies, contributing to personal and open-source p
 
 ![XD3V-ID's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XD3V-ID&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=60)
 
+**Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XD3V-ID&theme=tokyonight&hide_title=true&cache_seconds=60)
+
 **Top Lang**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XD3V-ID&layout=compact&theme=tokyonight&cache_seconds=60)
