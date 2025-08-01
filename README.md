@@ -69,7 +69,7 @@ Currently exploring new technologies, contributing to personal and open-source p
 
 **Streak**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=XD3V-ID&theme=tokyonight&hide_title=true&cache_seconds=60)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XD3V-ID&theme=tokyonight&hide_title=true&cache_seconds=60)
 
 **Top Lang**
 
