@@ -66,7 +66,6 @@ Currently exploring new technologies, contributing to personal and open-source p
 **Stats**
 
 ![XD3V-ID's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XD3V-ID&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=60)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XD3V-ID&show_icons=true&theme=tokyonight)
 
 **Streak**
 
