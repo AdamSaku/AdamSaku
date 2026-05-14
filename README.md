@@ -1,18 +1,28 @@
 ![banner](assets/gif/banner.gif)
 
-### About Me
-
-👋 **Hello, I'm Adam Bagus Handoko**
-
-I'm a passionate **Junior Developer** focusing on **Android Development**, **Web Development**, and **WhatsApp Bots**. 
-
-Currently exploring new technologies, contributing to personal and open-source projects, and constantly learning.
+<h1 align="center">Hi 👋, I'm Adam Bagus Handoko</h1>
+<h3 align="center">Developer from Indonesia 🇮🇩</h3>
 
 ---
 
-### 💼 Tech Stack
+## 🧑‍💻 About Me
 
-**👨‍💻 Primary Tools & Technologies**
+I'm a passionate **Developer** focused on
+
+- 📱 Android Development
+- 🌐 Web Development
+- 🤖 WhatsApp Bot Development
+
+I enjoy building useful applications, automation systems, and experimenting with new technologies.  
+Currently learning modern frameworks while improving my skills through personal and open-source projects.
+
+🚧 I’m also currently developing a **Manga Reader Website**, which is still under active development.
+
+---
+
+## 💼 Tech Stack
+
+### 👨‍💻 Primary Tools & Technologies
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
@@ -29,7 +39,9 @@ Currently exploring new technologies, contributing to personal and open-source p
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**📚 Currently Exploring / On Learning**
+---
+
+## 📚 Currently Learning & Exploring
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -45,59 +57,72 @@ Currently exploring new technologies, contributing to personal and open-source p
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-- 🔧 **WhatsApp Bot Automation**  
+### 🤖 WhatsApp Bot Automation
+Multi-featured WhatsApp bots with
+- Group management
+- Prayer-based auto lock system
+- VIP features
+- Mini games
+- Automation tools
+- Real-time integrations
 
-  Multi-featured WA bot including games, prayer-based group locking, VIP system, and more.
+### 📱 Mobile Utilities
+Android applications focused on
+- Practical daily tools
+- Lightweight performance
+- Clean & modern UI/UX
+- Built using Java, XML, and Kotlin
 
-- 📱 **Mobile Utilities**  
+### 🌐 Manga Reader Website *(In Development)*
+Currently building a modern manga reader platform featuring
+- Responsive UI
+- Fast reading experience
+- Bookmark & history system
+- Clean reader mode
+- Mobile-friendly design
 
-  Android apps focused on practical tools and clean, professional UI/UX using XML & Kotlin/Java.
+> 🚧 This project is still under development and continuously being improved.
 
-- 🛠️ **API Integrations & Tools**  
-
-  Lightweight REST API-based automation tools for bots and real-time services.
+### 🛠️ API Integrations & Tools
+Building lightweight REST API-based tools for:
+- Automation systems
+- Bots
+- Real-time services
+- Utility applications
 
 ---
 
-### 📊 GitHub Insight
+## 📊 GitHub Insights
 
-**Stats**
+### 📈 Stats
 
-![XD3V-ID's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XD3V-ID&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamSaku&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=60)
 
-**Streak**
+### 🔥 Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XD3V-ID&theme=tokyonight&hide_title=true&cache_seconds=60)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdamSaku&theme=tokyonight&hide_title=true&cache_seconds=60)
 
-**Top Lang**
+### 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XD3V-ID&layout=compact&theme=tokyonight&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSaku&layout=compact&theme=tokyonight&cache_seconds=60)
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-bagus-handoko-3a146b2ab)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adam.bagus1)
 
 ---
 
-<!--
-**XD3V-ID/XD3V-ID** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+<div align="center">
+
+✨ Thanks for visiting my GitHub profile ✨
+
+</div>
 
 <!--
-**XD3V-ID/XD3V-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**XD3V-ID/XD3V-ID** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
