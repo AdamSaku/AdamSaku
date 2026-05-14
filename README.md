@@ -1,18 +1,91 @@
+<div align="center">
+
 ![banner](assets/gif/banner.gif)
 
-### About Me
+<br/>
 
-👋 **Hello, I'm Adam Bagus Handoko**
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Adam+Bagus+Handoko+👋;Fullstack+Developer+%7C+Android+%7C+Web;Building+Cool+Things+Every+Day+🚀)](https://git.io/typing-svg)
 
-I'm a passionate **Developer** focusing on **Android Development**, **Web Development**, and **WhatsApp Bots**. 
+<br/>
 
-Currently exploring new technologies, contributing to personal and open-source projects, and constantly learning.
+[![GitHub followers](https://img.shields.io/github/followers/adamsaku?style=for-the-badge&color=blueviolet&labelColor=1a1a2e)](https://github.com/adamsaku?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/adamsaku?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=1a1a2e)](https://github.com/adamsaku)
+
+</div>
 
 ---
 
-### 💼 Tech Stack
+## 👤 About Me
 
-**👨‍💻 Primary Tools & Technologies**
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+```javascript
+const adam = {
+  name: "Adam Bagus Handoko",
+  role: "Fullstack Developer",
+  focus: ["Android Dev", "Web Dev", "WA Bot"],
+  location: "Indonesia 🇮🇩",
+  currently: {
+    building: "🟣 Manga Reader Website (WIP)",
+    learning: ["React", "Node.js", "Kotlin"],
+    exploring: "New APIs & Automation Tools"
+  },
+  funFact: "I debug with console.log and I'm not ashamed 😅"
+};
+```
+
+- 🔭 Sedang membangun **Website Manga Reader** *(masih dalam pengembangan aktif)*
+- 🌱 Belajar lebih dalam tentang **React, Node.js & REST API**
+- 🤖 Hobi membuat **WhatsApp Bot** dengan berbagai fitur unik
+- 📱 Tertarik pada **Android Development** dengan Kotlin & Java
+- ⚡ Selalu penasaran dengan teknologi baru!
+
+<br clear="right"/>
+
+---
+
+## 🚧 Current Project
+
+<div align="center">
+
+> 🟣 **Project in Active Development**
+
+</div>
+
+Saya sedang mengembangkan sebuah **Website Manga Reader**, platform baca manga berbasis web yang ramah pengguna.
+
+<div align="center">
+
+| Feature | Status |
+|---------|--------|
+| Manga Reader UI | 🟢 |
+| Search & Filter | 🔨 |
+| Chapter Navigation | 🟢 |
+| PWA Support | 🟢 |
+| Dark Mode | 🟢 |
+| Bookmark System | 🟢 |
+| API Integration | 🟢 |
+| Payment Gateway Integration | 🔨 |
+| Customer Service Bot + Agent Function | 🟢 |
+| Saved Data in Local + Cloud | 🟢 |
+| Comments on Manga Chapters | 🟢 |
+
+</div>
+
+<div align="center">
+  
+> ⚠️ *Website ini masih dalam tahap pengembangan. Stay tuned!*
+  
+</div>
+
+---
+
+## 💼 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Primary Tools & Technologies
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
@@ -28,8 +101,13 @@ Currently exploring new technologies, contributing to personal and open-source p
 ![REST API](https://img.shields.io/badge/API-00BDD6?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**📚 Currently Exploring / On Learning**
+### 📚 Currently Exploring / Learning
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -43,61 +121,82 @@ Currently exploring new technologies, contributing to personal and open-source p
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
----
-
-### 🚀 Projects
-
-- 🔧 **WhatsApp Bot Automation**  
-
-  Multi-featured WA bot including games, prayer-based group locking, VIP system, and more.
-
-- 📱 **Mobile Utilities**  
-
-  Android apps focused on practical tools and clean, professional UI/UX using XML & Kotlin/Java.
-
-- 🛠️ **API Integrations & Tools**  
-
-  Lightweight REST API-based automation tools for bots and real-time services.
+</div>
 
 ---
 
-### 📊 GitHub Insight
+## 🚀 Projects
 
-**Stats**
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamSaku&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=60)
+| Project | Deskripsi | Tech |
+|---------|-----------|------|
+| 🟣 **Manga Reader** | Website baca manga modern *(WIP)* | Framework React, API |
+| 🤖 **WhatsApp Bot** | Multi-fitur, game, VIP system, jadwal sholat, lock grup | Node.js, Baileys |
+| 📱 **Mobile Utilities** | Aplikasi Android dengan UI/UX profesional | Kotlin, Java, XML |
+| 🛠️ **API Tools** | REST API ringan untuk bot & automasi real-time | Node.js, Express |
 
-**Streak**
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdamSaku&theme=tokyonight&hide_title=true&cache_seconds=60)
+### 🤖 WhatsApp Bot Automation
+Multi-featured WA bot dengan fitur: games interaktif, sistem lock grup berbasis waktu sholat, VIP system, dan banyak lagi.
 
-**Top Lang**
+### 📱 Mobile Utilities
+Aplikasi Android dengan fokus pada tools praktis, UI/UX bersih dan profesional menggunakan XML & Kotlin/Java.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSaku&layout=compact&theme=tokyonight&cache_seconds=60)
+### 🛠️ API Integrations & Tools
+Lightweight REST API-based automation tools untuk bot dan layanan real-time.
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-bagus-handoko-3a146b2ab)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adam.bagus1)
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adamsaku&theme=tokyonight&hide_border=true" width="48%" alt="Adam's Streak"/>
+
+</div>
 
 ---
 
-<!--
-**XD3V-ID/XD3V-ID** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+## 🏆 GitHub Achievements
 
-<!--
-**XD3V-ID/XD3V-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=adamsaku&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Adam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adamsaku&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-adamsaku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adamsaku)
+[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@adam.bagus1)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@adamsaku.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
