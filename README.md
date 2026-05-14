@@ -16,7 +16,12 @@
 
 ---
 
-## 👤 About Me
+
+<div align="center">
+
+> **About Me**
+
+</div>
 
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
@@ -44,8 +49,6 @@ const adam = {
 <br clear="right"/>
 
 ---
-
-## 🚧 Current Project
 
 <div align="center">
 
@@ -81,11 +84,11 @@ Saya sedang mengembangkan sebuah **Website Manga Reader**, platform baca manga b
 
 ---
 
-## 💼 Tech Stack
-
 <div align="center">
 
-### 👨‍💻 Primary Tools & Technologies
+> **💼 Tech Stack**
+
+**👨‍💻 Primary Tools & Technologies**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white)
@@ -107,7 +110,7 @@ Saya sedang mengembangkan sebuah **Website Manga Reader**, platform baca manga b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📚 Currently Exploring / Learning
+**📚 Currently Exploring / Learning**
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -125,9 +128,9 @@ Saya sedang mengembangkan sebuah **Website Manga Reader**, platform baca manga b
 
 ---
 
-## 🚀 Projects
-
 <div align="center">
+
+> **🚀 Projects**<br/>
 
 | Project | Deskripsi | Tech |
 |---------|-----------|------|
@@ -136,20 +139,18 @@ Saya sedang mengembangkan sebuah **Website Manga Reader**, platform baca manga b
 | 📱 **Mobile Utilities** | Aplikasi Android dengan UI/UX profesional | Kotlin, Java, XML |
 | 🛠️ **API Tools** | REST API ringan untuk bot & automasi real-time | Node.js, Express |
 
-</div>
+</div><br/>
 
-### 🤖 WhatsApp Bot Automation
+**🤖 WhatsApp Bot Automation**<br/>
 Multi-featured WA bot dengan fitur: games interaktif, sistem lock grup berbasis waktu sholat, VIP system, dan banyak lagi.
 
-### 📱 Mobile Utilities
+**📱 Mobile Utilities**<br/>
 Aplikasi Android dengan fokus pada tools praktis, UI/UX bersih dan profesional menggunakan XML & Kotlin/Java.
 
-### 🛠️ API Integrations & Tools
+**🛠️ API Integrations & Tools**<br/>
 Lightweight REST API-based automation tools untuk bot dan layanan real-time.
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
   
@@ -159,8 +160,6 @@ Lightweight REST API-based automation tools untuk bot dan layanan real-time.
 
 ---
 
-## 🏆 GitHub Achievements
-
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adamsaku&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -168,8 +167,6 @@ Lightweight REST API-based automation tools untuk bot dan layanan real-time.
 </div>
 
 ---
-
-## 📈 Activity Graph
 
 <div align="center">
 
@@ -179,13 +176,14 @@ Lightweight REST API-based automation tools untuk bot dan layanan real-time.
 
 ---
 
-## 📫 Connect with Me
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-adamsaku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adamsaku)
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@adam.bagus1)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@adamsaku.com)
+**📫 Connect with Me**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adamsaku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-bagus-handoko-3a146b2ab)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@adam.bagus1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@adamsaku.com)
 
 </div>
 
@@ -193,7 +191,7 @@ Lightweight REST API-based automation tools untuk bot dan layanan real-time.
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+**💜 Thanks for visiting my profile!**
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
